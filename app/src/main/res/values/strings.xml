@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">乐头条</string>
+
+    <string-array name="news_type_cn">
+        <item>头条</item>
+        <item>社会</item>
+        <item>国内</item>
+        <item>国际</item>
+        <item>娱乐</item>
+        <item>体育</item>
+        <item>军事</item>
+        <item>科技</item>
+        <item>财经</item>
+        <item>时尚</item>
+    </string-array>
+
+    <string-array name="news_type_en">
+        <item>toutiao</item>
+        <item>shehui</item>
+        <item>guonei</item>
+        <item>guoji</item>
+        <item>yule</item>
+        <item>tiyu</item>
+        <item>junshi</item>
+        <item>keji</item>
+        <item>caijing</item>
+        <item>shishang</item>
+    </string-array>
+
+    <!--关于界面信息-->
+    <string name="string_about_github">GitHub:https://github.com/tangfunan2017</string>
+    <string name="string_about_jianshu">简书:http://www.jianshu.com/users/a3006410b67e/timeline</string>
+    <string name="string_about_blog">博客:http://my.csdn.net/qq_21414167</string>
+    <string name="string_about_banquan">项目源码已经同步到了我的GitHub(功能尚未完善，持续更新)。我也是Android新手，
+        正处在学习的阶段，有很多不足，见谅！需要学习的也可以随意下载。我的QQ290181662，大家可以加我互相学习。
+    </string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_news"
+        icon="@mipmap/news"
+        barColorWhenSelected="#eff4f1"
+        title="新闻" />
+    <tab
+        id="@+id/tab_joke"
+        icon="@mipmap/joke"
+        title="段子"
+        barColorWhenSelected="#eff4f1" />
+    <tab
+        id="@+id/tab_pic"
+        icon="@mipmap/pic"
+        title="趣图"
+        barColorWhenSelected="#eff4f1" />
+
+    <tab
+        id="@+id/tab_about"
+        icon="@mipmap/about"
+        title="关于"
+        barColorWhenSelected="#eff4f1" />
+</tabs>

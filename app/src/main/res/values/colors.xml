@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--字体的颜色-->
+    <color name="colorNormalText">#3e3d3d</color>
+
+    <!-- 新闻详情页上方toolbar的背景 -->
+    <color name="showToolBarBackground">#fec4bfbf</color>
+
+
+</resources>
