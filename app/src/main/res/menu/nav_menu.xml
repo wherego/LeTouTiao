@@ -25,26 +25,6 @@
     </item>
 
 
-    <item android:title="更多">
-        <menu>
-            <item
-                android:id="@+id/nav_clear_cache"
-                android:icon="@mipmap/ic_setting"
-                android:title="清理缓存" />
-            <item
-                android:id="@+id/nav_version_update"
-                android:icon="@mipmap/ic_version_update"
-                android:title="版本更新" />
-            <item
-                android:id="@+id/nav_change_theme"
-                android:icon="@mipmap/change_theme"
-                android:title="更换主题" />
-            <item
-                android:icon="@mipmap/ic_night"
-                android:id="@+id/nav_day_night"
-                android:title="切换夜间"
-                />
-        </menu>
-    </item>
+
 
 </menu>
